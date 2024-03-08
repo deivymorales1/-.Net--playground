@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e00h535cot3zJDGXJwG5LjzNZ23hE7vvOqLugoyMYWf8irB6hwam6s4+OosWxXcd5Uat4r5qip412jFltj625g==",
+  "success": true,
+  "projectFilePath": "/home/deivy/Documents/(.Net)-playground/Reactivities/API/API.csproj",
+  "expectedPackageFiles": [
+    "/home/deivy/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/deivy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/deivy/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/deivy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/deivy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/deivy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
