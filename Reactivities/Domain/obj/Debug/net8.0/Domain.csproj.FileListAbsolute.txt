@@ -1,0 +1,12 @@
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/bin/Debug/net8.0/Domain.dll
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/bin/Debug/net8.0/Domain.pdb
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/obj/Debug/net8.0/Domain.dll
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/obj/Debug/net8.0/Domain.pdb
+/home/deivy/Documents/(.Net)-playground/Reactivities/Domain/obj/Debug/net8.0/ref/Domain.dll

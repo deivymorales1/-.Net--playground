@@ -1,0 +1,16 @@
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/bin/Debug/net8.0/Persistence.dll
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/bin/Debug/net8.0/Persistence.pdb
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/bin/Debug/net8.0/Domain.dll
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/bin/Debug/net8.0/Domain.pdb
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CopyComplete
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/Persistence.dll
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
+/home/deivy/Documents/(.Net)-playground/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll
